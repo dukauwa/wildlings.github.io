@@ -1,0 +1,59 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 700px;
+
+}
+/** Header styles **/
+
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_coffee-bgnd.jpeg");
+  height: 400px;
+  background-position: center center;
+}
+
+h1 {
+  
+  
+  font-family: 'Covered By Your Grace', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+/** List style **/
+
+p {
+  background: grey;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px; 
+  width: 300px;
+  height: 60px;
+  margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 500px;
+  opacity:0.5;
+}
+
+img {
+    vertical-align: middle;
+    border-radius: 50%;
+    padding: 20px; 
+    width: 350px;
+    height: 300px;
+}
+
+

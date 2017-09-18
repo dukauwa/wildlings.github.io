@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<title>This is my profile</title>
+</head>
+<body>
+<h1><img src="C:\Users\User\Pictures\IMG_1891.PNG"/></h1>
+<h1>Name: Anthonio maduadichie</h1>
+<h2>Slack Username: anthoniomadu</h2>
+<h3>Bio:studen, Nigerian, catholic, lightskinned...  </h3>
+</body>
+</html>
